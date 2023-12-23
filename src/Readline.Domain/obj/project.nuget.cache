@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qD/+aDw7TaB6bCSyUQw1Ak9vBcjN9/noKWsy0n1r2Ahty7V0ugusAvBQv7jeku00dF8n8GeY9+IhWifGfraHng==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ReadLine\\src\\Readline.Domain\\Readline.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jahongir\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jahongir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jahongir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.AssemblyInfoInputs.cache
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.AssemblyInfo.cs
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ReadLine\src\Readline.Domain\bin\Debug\net7.0\Readline.Domain.deps.json
+D:\Projects\ReadLine\src\Readline.Domain\bin\Debug\net7.0\Readline.Domain.dll
+D:\Projects\ReadLine\src\Readline.Domain\bin\Debug\net7.0\Readline.Domain.pdb
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.dll
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\refint\Readline.Domain.dll
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.pdb
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\ref\Readline.Domain.dll
+D:\Projects\ReadLine\src\Readline.Domain\obj\Debug\net7.0\Readline.Domain.sourcelink.json
